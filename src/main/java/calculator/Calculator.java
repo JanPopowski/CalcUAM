@@ -29,12 +29,12 @@ public class Calculator {
         //return 2*a+2*a;
         return 2*a+2*b;
     }
-    
-     public double CalculateTriangleArea(int a, int h) {
+
+    public double CalculateTriangleArea(int a, int h) {
         return (a*h)/2;
     }
-     
-      public double CalculateTriangleCirc(int a, int b, int c) {
+
+    public double CalculateTriangleCirc(int a, int b, int c) {
         return a+b+c;
     }
       
